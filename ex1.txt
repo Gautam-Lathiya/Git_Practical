@@ -1,0 +1,2 @@
+first line added in ex1.txt.
+second line added in ex1.txt.
